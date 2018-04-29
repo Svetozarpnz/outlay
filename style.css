@@ -1,0 +1,22 @@
+table.outlay {
+    border: 1px solid #CCC;
+    width: 100%;
+    min-width: 500px;
+    border-collapse: collapse;
+}
+
+table.outlay th:first-child {
+    width: 75px;
+}
+
+table.outlay td, table.outlay th {
+    border:1px solid #CCC;
+    padding: 4px;
+}
+#category {
+    width:200px;
+}
+
+#cost {
+    width: 60px;
+}
